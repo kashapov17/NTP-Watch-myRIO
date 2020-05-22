@@ -209,8 +209,8 @@ AddOutputFilter chunkFilter
 			<Item Name="drawPixel.vi" Type="VI" URL="../modules/drawPixel.vi"/>
 			<Item Name="drawRect.vi" Type="VI" URL="../modules/drawRect.vi"/>
 			<Item Name="drawString.vi" Type="VI" URL="../modules/drawString.vi"/>
+			<Item Name="getNtpTime.vi" Type="VI" URL="../modules/getNtpTime.vi"/>
 			<Item Name="LCD_INIT.vi" Type="VI" URL="../modules/LCD_INIT.vi"/>
-			<Item Name="LCD_INVERSE.vi" Type="VI" URL="../modules/LCD_INVERSE.vi"/>
 			<Item Name="LCD_SETXY.vi" Type="VI" URL="../modules/LCD_SETXY.vi"/>
 			<Item Name="LCD_WRITE_BUFFER.vi" Type="VI" URL="../modules/LCD_WRITE_BUFFER.vi"/>
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
